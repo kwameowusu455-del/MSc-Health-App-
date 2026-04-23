@@ -10,10 +10,15 @@ Okomfo Anokye Teaching Hospital in Ghana.
 This project used a publicly available dataset obtained from Kaggle to populate the database. 
 
 Dataset: NoShowAppointment 
+
 Author: Jonihoppen (2016)
+
 Source: Kaggle
+
 URL: https://www.kaggle.com/datasets/joniarroba/noshowappointments 
+
 Accessed: March 2026.
+
 License: As specified on Kaggle. 
 
 This dataset was used solely for academic purposes in accordance with Kaggle’s terms of use. 
